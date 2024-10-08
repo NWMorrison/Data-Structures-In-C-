@@ -1,2 +1,2 @@
-# Data-Structures-In-C-
-Review of Data Stuctures over the remainder of University.
+# Data-Structures-In-C++
+A Review On Data Structures
