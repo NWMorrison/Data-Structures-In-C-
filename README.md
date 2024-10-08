@@ -1,2 +1,2 @@
 # Data-Structures-In-C++
-A Review On Data Stuctures
+A Review On Data Structures
