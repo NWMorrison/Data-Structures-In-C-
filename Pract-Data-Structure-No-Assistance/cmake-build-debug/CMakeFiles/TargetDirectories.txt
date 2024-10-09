@@ -1,0 +1,3 @@
+/home/nash/CLion/Practice/Data-Prac/cmake-build-debug/CMakeFiles/Data_Prac.dir
+/home/nash/CLion/Practice/Data-Prac/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nash/CLion/Practice/Data-Prac/cmake-build-debug/CMakeFiles/rebuild_cache.dir
